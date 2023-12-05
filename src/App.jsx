@@ -5,7 +5,7 @@ export const App = () => {
   return (
     <>
       <NavBar />
-      <ItemListContanier greeting={"Bienvenidos - mensaje enviado por parametro"} />
+      <ItemListContanier greeting={"Bienvenidos ! - mensaje enviado por parametro"} />
     </>
   );
 };
